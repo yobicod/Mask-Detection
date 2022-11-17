@@ -1,2 +1,2 @@
 # Mask-Detection
-Mask Detection Pyton with keras
+Mask Detection Python with keras
